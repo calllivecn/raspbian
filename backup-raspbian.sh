@@ -114,7 +114,7 @@ fi
 sys_excludes='--exclude=./proc/* --exclude=./sys/* --exclude=./run/* --exclude=./tmp/* --exclude=./dev/* --exclude=./var/log/* --exclude=./snap/*'
 #sys_excludes='./proc/* ./sys/* ./run/* ./tmp/* ./dev/*'
 
-user_excludes='--exclude=./home/not_backup/* --exclude=./mnt/* --exclude=./media/*'
+user_excludes='--exclude=./home/pi/not_backup/* --exclude=./mnt/* --exclude=./media/*'
 #user_excludes='./home/* ./mnt/* ./media/*'
 
 excludes="$sys_excludes $user_excludes"
