@@ -1,2 +1,6 @@
 network-manager
 
+# 中文字体
+ttf-wqy-zenhei
+ttf-wqy-microhei
+
