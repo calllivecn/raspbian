@@ -1,6 +1,6 @@
 #!/bin/bash
 # update 2018-04-28 23:29:32
-# author calllivecn <c-all@qq.com>
+# author calllivecn <calllivecn@outlook.com>
 
 
 set -e
